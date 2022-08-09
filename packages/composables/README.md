@@ -2,7 +2,12 @@
 <img src="https://blog.vuestorefront.io/wp-content/uploads/2020/01/1QU9F6hQlFyHsJIbsdmt6FA.png" height="80px"/>  
 </div>
 
-## Vue Storefront 2 integration with __replace_me__
+# What it is used for
+- define frontend logic
+ - how each component works
+ - can add new customize composables for new features
+
+## Vue Storefront 2 integration with myshop
 
 ------
 
@@ -22,12 +27,12 @@ vsf init <project_name> && cd <project_name> && yarn && yarn dev
 ## Resources
 
 - [Vue Storefront Documentation](https://docs.vuestorefront.io/v2/)
-- [__replace_me__ integration Documentation](https://docs.vuestorefront.io/__replace_me__)
+- [myshop integration Documentation](https://docs.vuestorefront.io/myshop)
 - [Community Chat](https://discord.vuestorefront.io)
 
 ## Support
 
-If you have any questions about this integration we will be happy to answer them on `__replace_me__` channel on [our Discord](discord.vuestorefront.io).
+If you have any questions about this integration we will be happy to answer them on `myshop` channel on [our Discord](discord.vuestorefront.io).
 
 ## Contributors ✨
 
