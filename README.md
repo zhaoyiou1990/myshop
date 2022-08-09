@@ -75,3 +75,6 @@ If you have any questions about this integration we will be happy to answer them
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Resources
+- [tutorial link](https://www.binshops.com/tutorial/vue-storefront-tutorial)
