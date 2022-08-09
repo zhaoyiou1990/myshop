@@ -7,7 +7,7 @@ import type {
   Cart,
   CartItem,
   Product
-} from '@vue-storefront/__replace_me__-api';
+} from '@vue-storefront/myshop-api';
 
 const params: UseCartFactoryParams<Cart, CartItem, Product> = {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
