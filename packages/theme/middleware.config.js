@@ -1,8 +1,12 @@
 module.exports = {
   integrations: {
-    __replace_me__: {
-      location: '@vue-storefront/__replace_me__-api/server',
-      configuration: {}
+    myshop: {
+      location: '@vue-storefront/myshop-api/server',
+      configuration: {
+        api:{
+          url: "https://rest.binshops.com"
+        }
+      }
     }
   }
 };
